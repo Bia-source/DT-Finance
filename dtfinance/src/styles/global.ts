@@ -6,16 +6,15 @@ export const GlobalStyle = createGlobalStyle`
        --red: #E52E4D;
        --blue: #5429CC;
 
-       --blue-Light: #6933FF
+       --bluelight: #6933FF;
 
        --text-title: #363F5F;
        --text-body: #969CB3;
 
-       --background:#F0F2F5
        --shape: #FFFFFF:
    }
 
-    *{
+    * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
